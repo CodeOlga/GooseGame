@@ -1,0 +1,7 @@
+2023-10-20 11:50:36.780 Python[15944:3766254] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+pygame 2.5.2 (SDL 2.28.3, Python 3.12.0)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+  File "/Users/olgakrv/Desktop/python_goose/main.py", line 25, in <module>
+    FPS.tick(120)
+KeyboardInterrupt
